@@ -1,0 +1,31 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+h1,
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 1.5em;
+}
+h1 {
+  font-size: 32px;
+}
+table {
+  border: 1px solid black;
+}
+td,
+th {
+  border: 1px solid black;
+}
+figcaption {
+  font-style: italic;
+}
+figure {
+  float: right;
+}
+table caption {
+  caption-side: bottom;
+
+  font-style: italic;
+}
